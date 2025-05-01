@@ -1,4 +1,4 @@
-### 欢迎界面：
+### 初始界面：
 
 <div style="text-align: center;">
   <img src="attachments/1.png" alt="1" style="width: 400px; height: auto;">
